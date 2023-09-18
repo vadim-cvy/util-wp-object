@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-object",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\Object\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-design-patterns": "1.0.0"
+  }
+}
